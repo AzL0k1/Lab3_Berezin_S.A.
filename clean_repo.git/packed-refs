@@ -1,0 +1,4 @@
+# pack-refs with: peeled fully-peeled sorted 
+9d3a2154998dc3d77101c1aecf10d4f737d1eb90 refs/heads/master
+9d3a2154998dc3d77101c1aecf10d4f737d1eb90 refs/heads/the_first_branch
+ab9a05349aaab1f842e75a2e768f803b4abfdc05 refs/tags/v0.9_alpha_test
